@@ -1,1 +1,1 @@
-Initial commit, golang fx server demo
+Golang fx server demo
